@@ -3,7 +3,7 @@
 
 ## Podcast: 178 Nick Radge - The Blueprint: Create a Simple Trend Following system
 #### Trading software pre-requisites:
-- The market needs to be uptrens 
+- The market needs to be uptrend
 - Find any stock with a 20 Week breakout where the rate of change is over 30
 - Calcuate things based on the closing price and then execute it the following day
 - Mentions swarm theory
