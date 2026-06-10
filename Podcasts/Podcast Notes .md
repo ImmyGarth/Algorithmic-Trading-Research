@@ -14,3 +14,7 @@
 - The rate of Change ROC, is calculated by Current price - Past Price/ Past Price x100
 - Calculating things based on the Closing price is a common backtesting rule, this makes it more realisitic (why?)
 - Swarm Theory is the idea that groups of investors collectively create patterns, so if a stock is going well, then others will idenitfy that and buy it and this creates the stock price to increase further
+
+
+#### ACTION:
+##### Use the Global Commodity Price Data from my Data science module and apply the 20 week breakout and 30 ROC to measure how successful this would have been. Highlihgt the best times within the 25 year time frame where trading in each specific stock was the most profitable according to this measure. Then highlight the stock that is most beneficial 
