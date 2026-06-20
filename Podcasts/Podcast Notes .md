@@ -80,8 +80,12 @@ The drivers are the factors that impact it's price, for example for copper produ
 19. What are moving averages, RSIs and MACD?
   - Moving average - average price over a period of time (If the price is over the MA it is Bullish and if it is below it is Bearish)
   - RSI ( Relative Strenght Index) this measures momentum, if it is over 70 is is overbought if it is below 30 it's being oversold
-  - MACD (Moving Average Convergence Divergence), it measures momentum and trend 
+  - MACD (Moving Average Convergence Divergence), it measures momentum and trend
+
+
 21. What's a stock index?
+
+A stock index is a basket of stocks used to measure how part of the market is performing.
 
 
 
